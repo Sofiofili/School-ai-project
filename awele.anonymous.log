@@ -1,0 +1,267 @@
+Mémoire totale : 1.5 GiB
+Instanciation du bot "Random"
+7 classes ont été trouvées
+class awele.bot.demo.first.FirstBot
+class awele.bot.demo.random.RandomBot
+class awele.bot.demo.last.LastBot
+class awele.bot.demo.minmax.MinMaxBot
+class awele.bot.demo.knn2.Knn2Bot
+class awele.bot.competitor.BotBot
+class awele.bot.demo.knn1.Knn1Bot
+
+Bot 1/7
+Classe : awele.bot.demo.first.FirstBot
+Instanciation du bot "First"
+Nom du bot : First
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 0 B
+Usage mémoire maximum : 762.3 KiB
+
+Bot 2/7
+Classe : awele.bot.demo.random.RandomBot
+Instanciation du bot "Random"
+Nom du bot : Random
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 32 B
+Usage mémoire maximum : 291.4 KiB
+
+Bot 3/7
+Classe : awele.bot.demo.last.LastBot
+Instanciation du bot "Last"
+Nom du bot : Last
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 736 B
+Usage mémoire maximum : 270.9 KiB
+
+Bot 4/7
+Classe : awele.bot.demo.minmax.MinMaxBot
+Instanciation du bot "MinMax"
+Nom du bot : MinMax
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.016
+Usage mémoire : 510.8 KiB
+Usage mémoire maximum : 17.1 MiB
+
+Bot 5/7
+Classe : awele.bot.demo.knn2.Knn2Bot
+Instanciation du bot "k-NN2"
+Nom du bot : k-NN2
+Temps d'apprentissage : 00:00:00.021
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 26.7 KiB
+Usage mémoire maximum : 1.5 MiB
+
+Bot 6/7
+Classe : awele.bot.competitor.BotBot
+Instanciation du bot "KalaKala"
+Nom du bot : KalaKala
+Temps d'apprentissage : 00:00:00.000
+Durée d'une prise de décision : 00:00:00.005
+Usage mémoire : 1.0 MiB
+Usage mémoire maximum : 26.5 MiB
+
+Bot 7/7
+Classe : awele.bot.demo.knn1.Knn1Bot
+Instanciation du bot "k-NN1"
+Nom du bot : k-NN1
+Temps d'apprentissage : 00:00:00.004
+Durée d'une prise de décision : 00:00:00.000
+Usage mémoire : 12.7 KiB
+Usage mémoire maximum : 826.9 KiB
+
+7 bots ont été instanciés
+Durée du chargement : 00:00:01.704
+Mémoire utilisée : 3.4 MiB
+
+Que le championnat commence !
+
+Affrontement 1/21
+First vs. Random
+Score : 1.36 - 1.6
+Random a gagné
+Nombre de coups joués : 150.825 par match
+Durée : 00:00:00.001 par match
+Mémoire utilisée : 3.2 MiB
+
+Affrontement 2/21
+First vs. Last
+Score : 0.0 - 3.0
+Last a gagné
+Nombre de coups joués : 291.5 par match
+Durée : 00:00:00.001 par match
+Mémoire utilisée : 3.2 MiB
+
+Affrontement 3/21
+First vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 55.725 par match
+Durée : 00:00:00.039 par match
+Mémoire utilisée : 3.2 MiB
+
+Affrontement 4/21
+First vs. k-NN2
+Score : 0.39 - 2.61
+k-NN2 a gagné
+Nombre de coups joués : 188.74 par match
+Durée : 00:00:00.002 par match
+Mémoire utilisée : 3.2 MiB
+
+Affrontement 5/21
+First vs. KalaKala
+Score : 0.0 - 3.0
+KalaKala a gagné
+Nombre de coups joués : 49.87 par match
+Durée : 00:00:00.032 par match
+Mémoire utilisée : 54.9 MiB
+
+Affrontement 6/21
+First vs. k-NN1
+Score : 0.69 - 2.28
+k-NN1 a gagné
+Nombre de coups joués : 192.44 par match
+Durée : 00:00:00.002 par match
+Mémoire utilisée : 54.9 MiB
+
+Affrontement 7/21
+Random vs. Last
+Score : 0.09 - 2.88
+Last a gagné
+Nombre de coups joués : 107.815 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 54.9 MiB
+
+Affrontement 8/21
+Random vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 34.73 par match
+Durée : 00:00:00.019 par match
+Mémoire utilisée : 54.9 MiB
+
+Affrontement 9/21
+Random vs. k-NN2
+Score : 0.48 - 2.52
+k-NN2 a gagné
+Nombre de coups joués : 78.585 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 54.9 MiB
+
+Affrontement 10/21
+Random vs. KalaKala
+Score : 0.0 - 3.0
+KalaKala a gagné
+Nombre de coups joués : 33.74 par match
+Durée : 00:00:00.027 par match
+Mémoire utilisée : 147.6 MiB
+
+Affrontement 11/21
+Random vs. k-NN1
+Score : 0.21 - 2.79
+k-NN1 a gagné
+Nombre de coups joués : 78.385 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 147.6 MiB
+
+Affrontement 12/21
+Last vs. MinMax
+Score : 0.0 - 3.0
+MinMax a gagné
+Nombre de coups joués : 64.905 par match
+Durée : 00:00:00.034 par match
+Mémoire utilisée : 147.6 MiB
+
+Affrontement 13/21
+Last vs. k-NN2
+Score : 2.77 - 0.22
+Last a gagné
+Nombre de coups joués : 118.535 par match
+Durée : 00:00:00.001 par match
+Mémoire utilisée : 147.6 MiB
+
+Affrontement 14/21
+Last vs. KalaKala
+Score : 0.0 - 3.0
+KalaKala a gagné
+Nombre de coups joués : 61.355 par match
+Durée : 00:00:00.033 par match
+Mémoire utilisée : 230.4 MiB
+
+Affrontement 15/21
+Last vs. k-NN1
+Score : 2.73 - 0.27
+Last a gagné
+Nombre de coups joués : 134.725 par match
+Durée : 00:00:00.000 par match
+Mémoire utilisée : 230.4 MiB
+
+Affrontement 16/21
+MinMax vs. k-NN2
+Score : 3.0 - 0.0
+MinMax a gagné
+Nombre de coups joués : 43.96 par match
+Durée : 00:00:00.025 par match
+Mémoire utilisée : 230.4 MiB
+
+Affrontement 17/21
+MinMax vs. KalaKala
+Score : 1.09 - 1.84
+KalaKala a gagné
+Nombre de coups joués : 97.31 par match
+Durée : 00:00:00.125 par match
+Mémoire utilisée : 400.3 MiB
+
+Affrontement 18/21
+MinMax vs. k-NN1
+Score : 3.0 - 0.0
+MinMax a gagné
+Nombre de coups joués : 41.275 par match
+Durée : 00:00:00.020 par match
+Mémoire utilisée : 400.3 MiB
+
+Affrontement 19/21
+k-NN2 vs. KalaKala
+Score : 0.0 - 3.0
+KalaKala a gagné
+Nombre de coups joués : 43.69 par match
+Durée : 00:00:00.027 par match
+Mémoire utilisée : 487.4 MiB
+
+Affrontement 20/21
+k-NN2 vs. k-NN1
+Score : 1.12 - 1.84
+k-NN1 a gagné
+Nombre de coups joués : 83.69 par match
+Durée : 00:00:00.001 par match
+Mémoire utilisée : 487.4 MiB
+
+Affrontement 21/21
+KalaKala vs. k-NN1
+Score : 3.0 - 0.0
+KalaKala a gagné
+Nombre de coups joués : 40.44 par match
+Durée : 00:00:00.022 par match
+Mémoire utilisée : 555.1 MiB
+
+Durée du championnat : 00:01:30.790
+
+Scores finaux :
+First : 2.44
+Random : 2.38
+Last : 11.38
+MinMax : 16.09
+k-NN2 : 6.47
+KalaKala : 16.84
+k-NN1 : 7.18
+
+Rangs :
+1. KalaKala : 16.84
+2. MinMax : 16.09
+3. Last : 11.38
+4. k-NN1 : 7.18
+5. k-NN2 : 6.47
+6. First : 2.44
+7. Random : 2.38
