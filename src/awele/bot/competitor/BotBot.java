@@ -6,9 +6,17 @@ import awele.core.InvalidBotException;
 
 import java.util.HashMap;
 
+
+/**
+ * @author Aaro Karhu
+ * Email: aaro.karhu19@gmail.com
+ * this is my school project from the course M1 Informatique - Intelligence artificielle
+ * in University of Lorraine in France 2024. to goal was tho develop a bot that can play Awele
+ * a board game that is from Africa. This is my implementation of the given problem.
+ */
 public class BotBot extends CompetitorBot {
     private static final int MAX_DEPTH = 10; // max depth of search in the minmax
-    private int BASE_DEPTH = 4; // variable used for dynamic depth
+    private int BASE_DEPTH = 3; // variable used for dynamic depth
     private HashMap<String, Double> stateCache = new HashMap<>(); // already visited game states are stored here for optimization
 
     /**
