@@ -17,7 +17,7 @@ Auteur(s) : Alexandre Blansché
 Temps d'apprentissage : 00:00:00.000
 Durée d'une prise de décision : 00:00:00.000
 Usage mémoire : 2.9 KiB
-Usage mémoire maximum : 485.9 KiB
+Usage mémoire maximum : 463.3 KiB
 
 Bot 2/7
 Classe : awele.bot.demo.random.RandomBot
@@ -27,7 +27,7 @@ Auteur(s) : Alexandre Blansché
 Temps d'apprentissage : 00:00:00.000
 Durée d'une prise de décision : 00:00:00.000
 Usage mémoire : 624 B
-Usage mémoire maximum : 370.3 KiB
+Usage mémoire maximum : 336.8 KiB
 
 Bot 3/7
 Classe : awele.bot.demo.last.LastBot
@@ -37,7 +37,7 @@ Auteur(s) : Alexandre Blansché
 Temps d'apprentissage : 00:00:00.000
 Durée d'une prise de décision : 00:00:00.000
 Usage mémoire : 264 B
-Usage mémoire maximum : 349.6 KiB
+Usage mémoire maximum : 377.8 KiB
 
 Bot 4/7
 Classe : awele.bot.demo.minmax.MinMaxBot
@@ -45,53 +45,53 @@ Instanciation du bot "MinMax"
 Nom du bot : MinMax
 Auteur(s) : Alexandre Blansché
 Temps d'apprentissage : 00:00:00.000
-Durée d'une prise de décision : 00:00:00.001
-Usage mémoire : 1.5 KiB
-Usage mémoire maximum : 2.7 MiB
+Durée d'une prise de décision : 00:00:00.012
+Usage mémoire : 689.8 KiB
+Usage mémoire maximum : 1.5 MiB
 
 Bot 5/7
 Classe : awele.bot.demo.knn2.Knn2Bot
 Instanciation du bot "k-NN2"
 Nom du bot : k-NN2
 Auteur(s) : Alexandre Blansché
-Temps d'apprentissage : 00:00:00.028
+Temps d'apprentissage : 00:00:00.021
 Durée d'une prise de décision : 00:00:00.000
-Usage mémoire : 754.4 KiB
-Usage mémoire maximum : 2.4 MiB
+Usage mémoire : 26.3 KiB
+Usage mémoire maximum : 1.3 MiB
 
 Bot 6/7
 Classe : awele.bot.competitor.BotBot
-Instanciation du bot "KalaKala"
-Nom du bot : KalaKala
+Instanciation du bot "Paska Linko 6000"
+Nom du bot : Paska Linko 6000
 Auteur(s) : Aaro Karhu
 Temps d'apprentissage : 00:00:00.000
-Durée d'une prise de décision : 00:00:00.002
-Usage mémoire : 247.8 KiB
-Usage mémoire maximum : 5.3 MiB
+Durée d'une prise de décision : 00:00:00.001
+Usage mémoire : 324.4 KiB
+Usage mémoire maximum : 5.8 MiB
 
 Bot 7/7
 Classe : awele.bot.demo.knn1.Knn1Bot
 Instanciation du bot "k-NN1"
 Nom du bot : k-NN1
 Auteur(s) : Alexandre Blansché
-Temps d'apprentissage : 00:00:00.006
+Temps d'apprentissage : 00:00:00.009
 Durée d'une prise de décision : 00:00:00.000
-Usage mémoire : 13.1 KiB
-Usage mémoire maximum : 899.6 KiB
+Usage mémoire : 12.5 KiB
+Usage mémoire maximum : 813.3 KiB
 
 7 bots ont été instanciés
-Durée du chargement : 00:00:01.021
-Mémoire utilisée : 2.6 MiB
+Durée du chargement : 00:00:01.121
+Mémoire utilisée : 2.7 MiB
 
 Que le championnat commence !
 
 Affrontement 1/21
 First vs. Random
-Score : 1.75 - 1.24
-First a gagné
-Nombre de coups joués : 156.09 par match
+Score : 1.3 - 1.69
+Random a gagné
+Nombre de coups joués : 145.17 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 2.4 MiB
+Mémoire utilisée : 2.5 MiB
 
 Affrontement 2/21
 First vs. Last
@@ -99,176 +99,176 @@ Score : 0.0 - 3.0
 Last a gagné
 Nombre de coups joués : 291.5 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 2.4 MiB
+Mémoire utilisée : 2.5 MiB
 
 Affrontement 3/21
 First vs. MinMax
 Score : 0.0 - 3.0
 MinMax a gagné
-Nombre de coups joués : 53.605 par match
-Durée : 00:00:00.008 par match
-Mémoire utilisée : 2.4 MiB
+Nombre de coups joués : 53.96 par match
+Durée : 00:00:00.029 par match
+Mémoire utilisée : 2.5 MiB
 
 Affrontement 4/21
 First vs. k-NN2
-Score : 0.28 - 2.71
+Score : 0.32 - 2.66
 k-NN2 a gagné
-Nombre de coups joués : 195.5 par match
-Durée : 00:00:00.002 par match
-Mémoire utilisée : 2.4 MiB
+Nombre de coups joués : 195.575 par match
+Durée : 00:00:00.003 par match
+Mémoire utilisée : 2.5 MiB
 
 Affrontement 5/21
-First vs. KalaKala
+First vs. Paska Linko 6000
 Score : 0.0 - 3.0
-KalaKala a gagné
-Nombre de coups joués : 52.83 par match
-Durée : 00:00:00.008 par match
-Mémoire utilisée : 23.4 MiB
+Paska Linko 6000 a gagné
+Nombre de coups joués : 47.39 par match
+Durée : 00:00:00.006 par match
+Mémoire utilisée : 15.2 MiB
 
 Affrontement 6/21
 First vs. k-NN1
-Score : 0.59 - 2.39
+Score : 0.72 - 2.25
 k-NN1 a gagné
-Nombre de coups joués : 211.645 par match
+Nombre de coups joués : 197.37 par match
 Durée : 00:00:00.001 par match
-Mémoire utilisée : 23.4 MiB
+Mémoire utilisée : 15.2 MiB
 
 Affrontement 7/21
 Random vs. Last
-Score : 0.12 - 2.88
+Score : 0.09 - 2.91
 Last a gagné
-Nombre de coups joués : 107.725 par match
+Nombre de coups joués : 111.495 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 23.4 MiB
+Mémoire utilisée : 15.2 MiB
 
 Affrontement 8/21
 Random vs. MinMax
 Score : 0.0 - 3.0
 MinMax a gagné
-Nombre de coups joués : 34.22 par match
-Durée : 00:00:00.003 par match
-Mémoire utilisée : 23.4 MiB
+Nombre de coups joués : 34.6 par match
+Durée : 00:00:00.017 par match
+Mémoire utilisée : 15.2 MiB
 
 Affrontement 9/21
 Random vs. k-NN2
-Score : 0.58 - 2.41
+Score : 0.66 - 2.31
 k-NN2 a gagné
-Nombre de coups joués : 78.95 par match
+Nombre de coups joués : 77.02 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 23.4 MiB
+Mémoire utilisée : 15.2 MiB
 
 Affrontement 10/21
-Random vs. KalaKala
+Random vs. Paska Linko 6000
 Score : 0.0 - 3.0
-KalaKala a gagné
-Nombre de coups joués : 36.31 par match
+Paska Linko 6000 a gagné
+Nombre de coups joués : 34.56 par match
 Durée : 00:00:00.009 par match
-Mémoire utilisée : 52.5 MiB
+Mémoire utilisée : 40.2 MiB
 
 Affrontement 11/21
 Random vs. k-NN1
-Score : 0.14 - 2.84
+Score : 0.3 - 2.67
 k-NN1 a gagné
-Nombre de coups joués : 73.625 par match
+Nombre de coups joués : 78.57 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 52.5 MiB
+Mémoire utilisée : 40.2 MiB
 
 Affrontement 12/21
 Last vs. MinMax
 Score : 0.0 - 3.0
 MinMax a gagné
-Nombre de coups joués : 63.485 par match
-Durée : 00:00:00.006 par match
-Mémoire utilisée : 52.5 MiB
+Nombre de coups joués : 67.29 par match
+Durée : 00:00:00.033 par match
+Mémoire utilisée : 40.2 MiB
 
 Affrontement 13/21
 Last vs. k-NN2
 Score : 2.88 - 0.12
 Last a gagné
-Nombre de coups joués : 117.115 par match
+Nombre de coups joués : 118.875 par match
 Durée : 00:00:00.001 par match
-Mémoire utilisée : 52.5 MiB
+Mémoire utilisée : 40.2 MiB
 
 Affrontement 14/21
-Last vs. KalaKala
+Last vs. Paska Linko 6000
 Score : 0.0 - 3.0
-KalaKala a gagné
-Nombre de coups joués : 70.89 par match
-Durée : 00:00:00.009 par match
-Mémoire utilisée : 75.2 MiB
+Paska Linko 6000 a gagné
+Nombre de coups joués : 60.36 par match
+Durée : 00:00:00.003 par match
+Mémoire utilisée : 44.6 MiB
 
 Affrontement 15/21
 Last vs. k-NN1
-Score : 2.65 - 0.34
+Score : 2.66 - 0.32
 Last a gagné
-Nombre de coups joués : 132.755 par match
+Nombre de coups joués : 128.68 par match
 Durée : 00:00:00.000 par match
-Mémoire utilisée : 75.2 MiB
+Mémoire utilisée : 44.6 MiB
 
 Affrontement 16/21
 MinMax vs. k-NN2
 Score : 3.0 - 0.0
 MinMax a gagné
-Nombre de coups joués : 40.68 par match
-Durée : 00:00:00.004 par match
-Mémoire utilisée : 75.2 MiB
+Nombre de coups joués : 42.57 par match
+Durée : 00:00:00.023 par match
+Mémoire utilisée : 44.6 MiB
 
 Affrontement 17/21
-MinMax vs. KalaKala
-Score : 0.61 - 2.38
-KalaKala a gagné
-Nombre de coups joués : 91.69 par match
-Durée : 00:00:00.037 par match
-Mémoire utilisée : 142.3 MiB
+MinMax vs. Paska Linko 6000
+Score : 0.3 - 2.67
+Paska Linko 6000 a gagné
+Nombre de coups joués : 118.355 par match
+Durée : 00:00:00.136 par match
+Mémoire utilisée : 103.7 MiB
 
 Affrontement 18/21
 MinMax vs. k-NN1
 Score : 3.0 - 0.0
 MinMax a gagné
-Nombre de coups joués : 37.185 par match
-Durée : 00:00:00.003 par match
-Mémoire utilisée : 142.3 MiB
+Nombre de coups joués : 38.58 par match
+Durée : 00:00:00.022 par match
+Mémoire utilisée : 103.7 MiB
 
 Affrontement 19/21
-k-NN2 vs. KalaKala
+k-NN2 vs. Paska Linko 6000
 Score : 0.0 - 3.0
-KalaKala a gagné
-Nombre de coups joués : 46.75 par match
-Durée : 00:00:00.009 par match
-Mémoire utilisée : 164.5 MiB
+Paska Linko 6000 a gagné
+Nombre de coups joués : 38.52 par match
+Durée : 00:00:00.003 par match
+Mémoire utilisée : 111.8 MiB
 
 Affrontement 20/21
 k-NN2 vs. k-NN1
-Score : 1.51 - 1.48
-k-NN2 a gagné
-Nombre de coups joués : 83.67 par match
+Score : 1.33 - 1.66
+k-NN1 a gagné
+Nombre de coups joués : 86.235 par match
 Durée : 00:00:00.001 par match
-Mémoire utilisée : 164.5 MiB
+Mémoire utilisée : 111.8 MiB
 
 Affrontement 21/21
-KalaKala vs. k-NN1
+Paska Linko 6000 vs. k-NN1
 Score : 3.0 - 0.0
-KalaKala a gagné
-Nombre de coups joués : 39.505 par match
-Durée : 00:00:00.005 par match
-Mémoire utilisée : 181.2 MiB
+Paska Linko 6000 a gagné
+Nombre de coups joués : 44.51 par match
+Durée : 00:00:00.007 par match
+Mémoire utilisée : 122.0 MiB
 
-Durée du championnat : 00:00:25.839
+Durée du championnat : 00:01:03.438
 
 Scores finaux :
-First : 2.62
-Random : 2.08
-Last : 11.41
-MinMax : 15.61
-k-NN2 : 6.75
-KalaKala : 17.38
-k-NN1 : 7.05
+First : 2.34
+Random : 2.74
+Last : 11.45
+MinMax : 15.3
+k-NN2 : 6.42
+Paska Linko 6000 : 17.67
+k-NN1 : 6.9
 
 Rangs :
-1. KalaKala : 17.38
-2. MinMax : 15.61
-3. Last : 11.41
-4. k-NN1 : 7.05
-5. k-NN2 : 6.75
-6. First : 2.62
-7. Random : 2.08
+1. Paska Linko 6000 : 17.67
+2. MinMax : 15.3
+3. Last : 11.45
+4. k-NN1 : 6.9
+5. k-NN2 : 6.42
+6. Random : 2.74
+7. First : 2.34
